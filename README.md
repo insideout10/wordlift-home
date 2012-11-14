@@ -3,6 +3,9 @@ wordlift-home
 
 A default setup for WordLift.
 
+### Create a job
+
+Request:
 ```sh
 curl -X POST \
  -H "Content-Type: application/json" \
@@ -11,6 +14,7 @@ curl -X POST \
  http://localhost:8080/wordlift/api/job
 ```
 
+Response:
 ```json
 	{
 		"jobID":"f1fab3d0-cb33-4a38-8664-222b091423b8",
@@ -19,6 +23,9 @@ curl -X POST \
 	}
 ```
 
+### Query the status of a job
+
+Request:
 ```sh
 curl -X GET \
  -H "Content-Type: application/json" \
@@ -26,6 +33,7 @@ curl -X GET \
  http://localhost:8080/wordlift/api/job/f1fab3d0-cb33-4a38-8664-222b091423b8
 ```
 
+Response:
 ```json
 	{
 		"jobID":"f1fab3d0-cb33-4a38-8664-222b091423b8",
