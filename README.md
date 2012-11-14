@@ -78,8 +78,10 @@ Response (of mimetype *application/rdf+xml*):
     <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
     <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">9859</j.1:start>
   </rdf:Description>
+
   ...
-    <rdf:Description rdf:about="urn:enhancement-3945a0d8-699e-0cdc-e463-4b14a7006458">
+  
+  <rdf:Description rdf:about="urn:enhancement-3945a0d8-699e-0cdc-e463-4b14a7006458">
     <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
     <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
     <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
