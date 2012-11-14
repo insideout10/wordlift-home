@@ -57,7 +57,10 @@ Response (for a *complete* job):
 
 Request:
 ```sh
-curl -X GET -H "Content-Type: application/json" -H "Accept: application/json" http://localhost:8080/wordlift/api/job/5d68691b-ec51-47b9-91ea-71d6654687c4/result
+curl -X GET \
+ -H "Content-Type: application/json" \
+ -H "Accept: application/json" \
+ http://localhost:8080/wordlift/api/job/5d68691b-ec51-47b9-91ea-71d6654687c4/result
 ```
 
 Response (of mimetype *application/rdf+xml*):
@@ -80,7 +83,7 @@ Response (of mimetype *application/rdf+xml*):
   </rdf:Description>
 
   ...
-  
+
   <rdf:Description rdf:about="urn:enhancement-3945a0d8-699e-0cdc-e463-4b14a7006458">
     <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
     <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
