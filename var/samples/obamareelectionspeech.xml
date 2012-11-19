@@ -1,0 +1,885 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:j.0="http://purl.org/dc/terms/"
+    xmlns:j.1="http://fise.iks-project.eu/ontology/" > 
+  <rdf:Description rdf:about="urn:enhancement-b2a7923d-954f-abbd-fed5-c513aa7da5f3">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">America</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">11774</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.834Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">11767</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-805b98bd-abc6-7600-bce5-221f588cf30e">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>New York</j.1:selection-prefix>
+    <j.1:selection-suffix>New York</j.1:selection-suffix>
+    <j.1:selection-head>ersey and </j.1:selection-head>
+    <j.1:selection-tail> where le</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">New York</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">9109</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.839Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">9101</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-3199013c-1416-e4d2-27d4-8c1e1e118eec">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Michelle</j.1:selection-prefix>
+    <j.1:selection-suffix>Michelle</j.1:selection-suffix>
+    <j.1:selection-head>publicly: </j.1:selection-head>
+    <j.1:selection-tail> I have n</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Michelle</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">2089</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.835Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">2081</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-a04840ce-2f57-0663-7246-8a6d61079965">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">America</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">5747</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.833Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">5740</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-8d2e1172-595e-6b13-761e-82d69e0e988c">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">America</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">7660</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.842Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">7653</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-3b5d6287-90fc-b115-c29a-7bd9fc0fe1fe">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>United Sta</j.1:selection-prefix>
+    <j.1:selection-suffix>ted States</j.1:selection-suffix>
+    <j.1:selection-head>ess these </j.1:selection-head>
+    <j.1:selection-tail></j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">United States</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">11820</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.840Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">11807</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-d1f76146-33cd-ba43-6177-9236c903463d">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">America</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">2174</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.837Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">2167</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-bb5526de-d8d6-51cf-805c-e1e68a3b3c83">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">Gov. Romney</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1307</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.837Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1296</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-40864ac2-5fd1-5e78-3635-8caa8934cea5">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Utext Stat</j.1:selection-prefix>
+    <j.1:selection-suffix>of America</j.1:selection-suffix>
+    <j.1:selection-head>t for the </j.1:selection-head>
+    <j.1:selection-tail>the best </j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Utext States of America</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">909</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.841Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">886</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-78d5d80f-9656-61a1-d7fc-592f72d4b1ef">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Hispanic</j.1:selection-prefix>
+    <j.1:selection-suffix>Hispanic</j.1:selection-suffix>
+    <j.1:selection-head> white or </j.1:selection-head>
+    <j.1:selection-tail>or Asian </j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Hispanic</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">11115</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.834Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">11107</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-5433d158-2f27-579f-002e-7ebb2547e4e5">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Malia</j.1:selection-prefix>
+    <j.1:selection-suffix>Malia</j.1:selection-suffix>
+    <j.1:selection-head>Sasha and </j.1:selection-head>
+    <j.1:selection-tail> before o</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Malia</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">2246</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.843Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">2241</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-e60bce90-4cdf-dc8e-fdef-05de5f0c0093">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">America</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1881</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.835Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1874</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-8a994cd6-65d3-56a0-f719-b622417fa3c5">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Roll Call</j.1:selection-prefix>
+    <j.1:selection-suffix>Roll Call</j.1:selection-suffix>
+    <j.1:selection-head>cribed by </j.1:selection-head>
+    <j.1:selection-tail>
+Thank yo</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Roll Call</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">107</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.840Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">98</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-02ba1efa-9aac-d59e-735f-763296d6dad4">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Americans</j.1:selection-prefix>
+    <j.1:selection-suffix>Americans</j.1:selection-suffix>
+    <j.1:selection-head>h so many </j.1:selection-head>
+    <j.1:selection-tail>have foug</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Americans</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">8420</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.845Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">8411</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-545eab17-4dea-aa3f-3855-4e136bc9721c">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Ohio</j.1:selection-prefix>
+    <j.1:selection-suffix>Ohio</j.1:selection-suffix>
+    <j.1:selection-head>n Mentor, </j.1:selection-head>
+    <j.1:selection-tail> where a </j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Ohio</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">9313</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.838Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">9309</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-fc2d8dbb-fa72-4de6-9503-c7488b48cf2f">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>America</j.1:selection-prefix>
+    <j.1:selection-suffix>America</j.1:selection-suffix>
+    <j.1:selection-head> tolerant </j.1:selection-head>
+    <j.1:selection-tail> open to </j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">America</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">5770</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.837Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">5763</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-48098565-39be-ef81-fb78-b0ae4ffbb49f">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">American</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">965</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.838Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">957</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-f9104c01-4141-426f-96a8-9247f0b6b50b">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">American</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">700</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.843Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">692</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-fa0b4b08-f511-2eeb-3668-7323e68638e6">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">Romney</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1546</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.841Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1540</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-36d0674b-5049-0efb-61db-08e58c211933">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Washington</j.1:selection-prefix>
+    <j.1:selection-suffix>Washington</j.1:selection-suffix>
+    <j.1:selection-head>ations of </j.1:selection-head>
+    <j.1:selection-tail> I've nev</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Washington</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">10088</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.834Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">10078</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-da47837d-3f32-11a2-0366-930711ff68c5">
+    <j.0:type rdf:resource="http://purl.org/dc/terms/LinguisticSystem"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.8955268865652105</j.1:confidence>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.0:language>en</j.0:language>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:03:07.178Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingLanguageIdentifierEngine</j.0:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-3ee8ccd6-1f27-391f-6bd8-ee10665f626f">
+    <j.0:type rdf:resource="http://purl.org/dc/terms/LinguisticSystem"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.4010681866786056</j.1:confidence>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.0:language>de</j.0:language>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:03:07.179Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingLanguageIdentifierEngine</j.0:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-6fe23b84-d086-7d4b-b8a4-5f11303287e7">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Etext</j.1:selection-prefix>
+    <j.1:selection-suffix>Etext</j.1:selection-suffix>
+    <j.1:selection-head>nation on </j.1:selection-head>
+    <j.1:selection-tail>
+Thank yo</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Etext</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">11754</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.839Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">11749</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-aaa8f39d-f05b-155f-14ac-e34c35a73b58">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">America</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">10181</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.839Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">10174</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-2496bc4b-8860-c4e3-b860-fd875eceb84a">
+    <j.0:type rdf:resource="http://purl.org/dc/terms/LinguisticSystem"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.46119592847303276</j.1:confidence>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.0:language>it</j.0:language>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:03:07.178Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingLanguageIdentifierEngine</j.0:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-c7ff6461-f81e-516a-3642-ea6c61392486">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Native Ame</j.1:selection-prefix>
+    <j.1:selection-suffix>e American</j.1:selection-suffix>
+    <j.1:selection-head> Asian or </j.1:selection-head>
+    <j.1:selection-tail>or young </j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Native American</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">11143</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.840Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">11128</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-e4b2ebd6-cdd4-f8c4-fce0-41905f2b99b2">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>United Sta</j.1:selection-prefix>
+    <j.1:selection-suffix>of America</j.1:selection-suffix>
+    <j.1:selection-head>ll be the </j.1:selection-head>
+    <j.1:selection-tail>
+And toge</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">United States of America</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">11591</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.834Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">11567</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-61b15e9f-ce9a-ca2e-9173-b8ebf90ba431">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>George</j.1:selection-prefix>
+    <j.1:selection-suffix>George</j.1:selection-suffix>
+    <j.1:selection-head>ure. From </j.1:selection-head>
+    <j.1:selection-tail>to Lenore</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">George</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1506</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.835Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1500</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-10d852a7-f0d7-7bc9-12e7-5118720ba07e">
+    <j.0:type rdf:resource="http://purl.org/dc/terms/LinguisticSystem"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">2.1105701309096905E-5</j.1:confidence>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.0:language>ru</j.0:language>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:03:07.178Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingLanguageIdentifierEngine</j.0:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-d596d3e4-b43f-0fd7-aec4-99b39a3ee604">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">America</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">5190</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.835Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">5183</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-4a386255-65ec-b9c3-2b5f-b9895440259d">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">America</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">8659</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.836Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">8652</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-0b912926-c56d-16b5-fdff-f77b427b5d9d">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">America</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">8583</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.841Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">8576</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-10714222-370b-2452-d5ee-d17b4f51a65f">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">America</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">8160</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.834Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">8153</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-655f4ca4-b019-4d57-28e4-dd7006ba724e">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">America</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">10719</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.836Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">10712</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-ff7ca101-0c11-d3b5-97f4-c234c8934c9d">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Itextm</j.1:selection-prefix>
+    <j.1:selection-suffix>Itextm</j.1:selection-suffix>
+    <j.1:selection-head>e country </j.1:selection-head>
+    <j.1:selection-tail>so proud </j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Itextm</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">9951</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.834Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">9945</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-f8071e0c-57f9-5229-3a20-670b1f759a07">
+    <j.0:type rdf:resource="http://purl.org/dc/terms/LinguisticSystem"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.3987016617187384</j.1:confidence>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.0:language>sl</j.0:language>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:03:07.179Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingLanguageIdentifierEngine</j.0:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-532c8375-2031-6ac5-60a2-a7dd718f323c">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Romney</j.1:selection-prefix>
+    <j.1:selection-suffix>Romney</j.1:selection-suffix>
+    <j.1:selection-head>sign or a </j.1:selection-head>
+    <j.1:selection-tail>sign, you</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Romney</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1218</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.836Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1212</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-7f687692-b8c1-46e0-b3b2-3cb2d68cc759">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">America</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">4877</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.843Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">4870</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-b3d4ef8a-3a2e-5ec9-9d04-3f2197eb0925">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Sasha</j.1:selection-prefix>
+    <j.1:selection-suffix>Sasha</j.1:selection-suffix>
+    <j.1:selection-head>rst lady. </j.1:selection-head>
+    <j.1:selection-tail>and Malia</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Sasha</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">2236</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.833Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">2231</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-899b4a1c-7b08-3abc-30f7-bc98a2cb3314">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">Chicago</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">5915</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.845Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">5908</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-88ea5073-b4fe-a3e2-dc8e-5c03f77e6843">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Obama</j.1:selection-prefix>
+    <j.1:selection-suffix>Obama</j.1:selection-suffix>
+    <j.1:selection-head>eld atext </j.1:selection-head>
+    <j.1:selection-tail>sign or a</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Obama</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1201</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.842Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1196</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-3d2d8c42-542e-b868-7d9f-e18d6898521d">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Chicago</j.1:selection-prefix>
+    <j.1:selection-suffix>Chicago</j.1:selection-suffix>
+    <j.1:selection-head>speech in </j.1:selection-head>
+    <j.1:selection-tail>after his</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Chicago</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">42</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.836Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">35</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-e53ecaf4-c5b4-3e9b-6d69-c59cb9f5ecf3">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">American</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">9867</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.834Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">9859</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-c4043a01-2d23-d711-fae6-56a2cdc2e69a">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">America</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">11244</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.835Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">11237</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-e9ba38c0-f55c-6ac5-e22c-d8e0955c3428">
+    <j.0:type rdf:resource="http://purl.org/dc/terms/LinguisticSystem"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.44817230799239915</j.1:confidence>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.0:language>pt</j.0:language>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:03:07.178Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingLanguageIdentifierEngine</j.0:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-c9307e87-cea8-643f-6635-cc0ebc308885">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Joe Btext</j.1:selection-prefix>
+    <j.1:selection-suffix>Joe Btext</j.1:selection-suffix>
+    <j.1:selection-head>hope for, </j.1:selection-head>
+    <j.1:selection-tail>
+And I wo</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Joe Btext</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1961</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.833Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1952</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-6c853465-f837-0926-a182-a264ef047c57">
+    <j.0:type rdf:resource="http://purl.org/dc/terms/LinguisticSystem"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.4311073004921822</j.1:confidence>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.0:language>fr</j.0:language>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:03:07.178Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingLanguageIdentifierEngine</j.0:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-8715575e-2782-f4ea-99a8-337a28700c97">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Asian</j.1:selection-prefix>
+    <j.1:selection-suffix>Asian</j.1:selection-suffix>
+    <j.1:selection-head>spanic or </j.1:selection-head>
+    <j.1:selection-tail>or Native</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Asian</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">11124</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.842Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">11119</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-0471c51a-ff57-86f7-c7d9-23a46b97a928">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">America</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">5719</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.839Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">5712</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-eb12eff1-f428-ec9b-56e9-35db96eec944">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>New Jersey</j.1:selection-prefix>
+    <j.1:selection-suffix>New Jersey</j.1:selection-suffix>
+    <j.1:selection-head>shores of </j.1:selection-head>
+    <j.1:selection-tail>and New Y</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">New Jersey</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">9096</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.838Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">9086</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-5c3fab7e-fe5d-74c8-ae8a-cc902d380678">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Gov. Romne</j.1:selection-prefix>
+    <j.1:selection-suffix>ov. Romney</j.1:selection-suffix>
+    <j.1:selection-head>down with </j.1:selection-head>
+    <j.1:selection-tail>to talk a</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Gov. Romney</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1742</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.845Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1731</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-f38e8235-cc0c-44c0-2377-77b0f4f84307">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selected-text xml:lang="en">America</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1588</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.838Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1581</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-927c1b98-4d07-4670-156a-b2163f39e7cf">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Barack Oba</j.1:selection-prefix>
+    <j.1:selection-suffix>rack Obama</j.1:selection-suffix>
+    <j.1:selection-head>President </j.1:selection-head>
+    <j.1:selection-tail>s speech </j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Barack Obama</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">22</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.833Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">10</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-951277f3-b205-4a96-7022-97e7f6b8d9aa">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Lenore</j.1:selection-prefix>
+    <j.1:selection-suffix>Lenore</j.1:selection-suffix>
+    <j.1:selection-head>George to </j.1:selection-head>
+    <j.1:selection-tail>to their </j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Lenore</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1516</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.842Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1510</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-4389c9c1-e2d0-a4c7-c11d-f6f4e0ca679f">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>SEALs</j.1:selection-prefix>
+    <j.1:selection-suffix>SEALs</j.1:selection-suffix>
+    <j.1:selection-head> in those </j.1:selection-head>
+    <j.1:selection-tail>who charg</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">SEALs</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">8938</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.840Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">8933</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-eebda31b-7799-b990-748f-bbb97e117e49">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>American</j.1:selection-prefix>
+    <j.1:selection-suffix>American</j.1:selection-suffix>
+    <j.1:selection-head>we are an </j.1:selection-head>
+    <j.1:selection-tail>ftext and</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">American</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">587</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.840Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">579</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-a368b4c3-d5b2-8a46-bde0-d99beeffa41d">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Mitt</j.1:selection-prefix>
+    <j.1:selection-suffix>Mitt</j.1:selection-suffix>
+    <j.1:selection-head>their son </j.1:selection-head>
+    <j.1:selection-tail> the Romn</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Mitt</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1534</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.833Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1530</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-20340e37-7113-c5bd-e5bb-188bd5d820c3">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Paul Ryan</j.1:selection-prefix>
+    <j.1:selection-suffix>Paul Ryan</j.1:selection-suffix>
+    <j.1:selection-head>d him and </j.1:selection-head>
+    <j.1:selection-tail>on a hard</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Paul Ryan</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1345</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.841Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">1336</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-bde7a483-cd02-c0e1-f175-c01e8356a29b">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>White Hous</j.1:selection-prefix>
+    <j.1:selection-suffix>hite House</j.1:selection-suffix>
+    <j.1:selection-head>rn to the </j.1:selection-head>
+    <j.1:selection-tail>more dete</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">White House</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">7031</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.839Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">7020</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-81867794-7894-7c3b-e2f1-bcc795de8b54">
+    <j.0:type rdf:resource="http://purl.org/dc/terms/LinguisticSystem"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">0.41463072678561225</j.1:confidence>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.0:language>es</j.0:language>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:03:07.179Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingLanguageIdentifierEngine</j.0:creator>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-720b9c74-49f6-fb2d-a7af-3f9f46fb0cc7">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>God</j.1:selection-prefix>
+    <j.1:selection-suffix>God</j.1:selection-suffix>
+    <j.1:selection-head> help and </j.1:selection-head>
+    <j.1:selection-tail>s grace w</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">God</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">11628</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.841Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">11625</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-f31360cc-a43f-32af-74fc-a91bf16b0b57">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>Mentor</j.1:selection-prefix>
+    <j.1:selection-suffix>Mentor</j.1:selection-suffix>
+    <j.1:selection-head>r day, in </j.1:selection-head>
+    <j.1:selection-tail> Ohio, wh</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">Mentor</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">9307</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.842Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">9301</j.1:start>
+  </rdf:Description>
+  <rdf:Description rdf:about="urn:enhancement-dee4722e-62af-969e-649a-4bf324e679f7">
+    <j.0:type rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    <j.1:extracted-from rdf:resource="urn:content-item-sha1-fa9eafde45a7ad9f3d03a8e2364aea54ce942670"/>
+    <j.1:confidence rdf:datatype="http://www.w3.org/2001/XMLSchema#double">1.0</j.1:confidence>
+    <j.1:selection-prefix>North Caro</j.1:selection-prefix>
+    <j.1:selection-suffix>h Carolina</j.1:selection-suffix>
+    <j.1:selection-head> child in </j.1:selection-head>
+    <j.1:selection-tail>who wants</j.1:selection-tail>
+    <j.1:selected-text xml:lang="en">North Carolina</j.1:selected-text>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/Enhancement"/>
+    <rdf:type rdf:resource="http://fise.iks-project.eu/ontology/TextAnnotation"/>
+    <j.1:end rdf:datatype="http://www.w3.org/2001/XMLSchema#long">6015</j.1:end>
+    <j.0:created rdf:datatype="http://www.w3.org/2001/XMLSchema#dateTime">2012-11-19T15:04:05.836Z</j.0:created>
+    <j.0:creator rdf:datatype="http://www.w3.org/2001/XMLSchema#string">io.insideout.wordlift.org.apache.stanbol.enhancer.engines.freeling.impl.FreelingPartOfSpeechTaggingEngine</j.0:creator>
+    <j.1:start rdf:datatype="http://www.w3.org/2001/XMLSchema#long">6001</j.1:start>
+  </rdf:Description>
+</rdf:RDF>
